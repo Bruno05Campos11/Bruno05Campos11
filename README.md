@@ -1,5 +1,5 @@
-![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
 
+<p align=center><a>![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)</a></p>
 <span width='40' align="left"/><h2>Prazer! Como posso te ajudar?</h2>
 
 
@@ -15,7 +15,7 @@ SOBRE MIM
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<p align=center><a💬 Entre em Contato!</a></p>
+<p align=center><a>💬 Entre em Contato!</a></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno05campos11/"><img src="https://img.shields.io/badge/-Bruno%20Campos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
