@@ -15,7 +15,7 @@ SOBRE MIM
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<p align=center><a>### 💬 &nbsp; Entre em Contato!</a></p>
+<p align=center><a>💬 &nbsp; Entre em Contato!</a></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno05campos11/"><img src="https://img.shields.io/badge/-Bruno%20Campos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
