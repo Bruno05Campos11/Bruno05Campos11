@@ -1,10 +1,7 @@
-
-<p align=center><a>![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)</a></p>
+![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
 <span width='40' align="left"/><h2>Prazer! Como posso te ajudar?</h2>
 
-
 SOBRE MIM
-
 💡 &nbsp;Gosto e me sinto motivado me desafiando e trabalhando em projetos.\
 🌱 &nbsp;Atualmente estudando automação de tarefas em Python e pretendo explorar a área web em breve.\
 🎓 &nbsp;Estudante de Sistemas de Informação.\
