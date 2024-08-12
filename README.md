@@ -1,4 +1,4 @@
-![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/GitHub_Banner.jpg)
+![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
 
 <span width='40' align="left"/><h2>Prazer! Como posso te ajudar?</h2>
 
