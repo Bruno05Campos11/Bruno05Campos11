@@ -1,6 +1,6 @@
-<div align="center">
-  ![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
-  
+![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
+
+<div align="center">  
   <span width='40' align="left"/><h2>Prazer! Como posso te ajudar?</h2>
   
   
