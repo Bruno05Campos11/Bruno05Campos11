@@ -8,7 +8,7 @@ SOBRE MIM\
 ✍️ &nbsp;Amo desenhar e praticar esportes. Meu lazer também pode ser conversar e ler quadrinhos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flatlogo=mysql&logo)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
