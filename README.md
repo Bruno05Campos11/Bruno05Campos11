@@ -9,6 +9,7 @@ SOBRE MIM\
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
