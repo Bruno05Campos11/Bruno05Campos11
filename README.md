@@ -1,15 +1,15 @@
 ![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
 <span width='40' align="left"/><h2>Prazer! Como posso te ajudar?</h2>
 
-SOBRE MIM
+SOBRE MIM\
 💡 &nbsp;Gosto e me sinto motivado me desafiando e trabalhando em projetos.\
 🌱 &nbsp;Atualmente estudando automação de tarefas em Python e pretendo explorar a área web em breve.\
 🎓 &nbsp;Estudante de Sistemas de Informação.\
-✍️ &nbsp;Amo desenhar e praticar esportes. Meu lazer também pode ser conversar, ler quadrinhos e jogar\
+✍️ &nbsp;Amo desenhar e praticar esportes. Meu lazer também pode ser conversar e ler quadrinhos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <p align=center><a>💬 Entre em Contato!</a></p>
