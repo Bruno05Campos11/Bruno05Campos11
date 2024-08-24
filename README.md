@@ -1,4 +1,4 @@
-![GitHub_Banner](https://raw.githubusercontent.com/Bruno05Campos11/Bruno05Campos11/master/Blue_Geometric.jpg)
+![Blue Geometric Technology Linkdln Banner (2)](https://github.com/user-attachments/assets/fcaedf49-f45b-4137-967c-65c49a98b812)
 <span width='40' align="left"/><h2>Prazer! Como posso te ajudar?</h2>
 
 SOBRE MIM\
